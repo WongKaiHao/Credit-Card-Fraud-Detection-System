@@ -17,9 +17,9 @@
 
 3. Model Creation and Training
 The classfication models used in this project are stated below:
-- K-Nearest Neighbors classifier
-- Decision Tree classifier
-- Random Forest Tree classifier  
+- **K-Nearest Neighbors classifier**
+- **Decision Tree classifier**
+- **Random Forest Tree classifier**  
 
 ***The optimisation method applied is `GridSearchCV` to find the best parameter of the model creation
 - For example, the `GridSearchCV` is used to find the k value in K-Nearest Neighbors classifier.  
