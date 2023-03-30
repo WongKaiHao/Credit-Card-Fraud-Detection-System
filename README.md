@@ -15,7 +15,8 @@
 - The data is split into training and testing set in the ratio of **80 : 20**.
 - The feature scaling is carried out to resolve the feature imbalance problem.  
 
-3. Model Creation and Training
+3. Model Creation and Training  
+
 The classfication models used in this project are stated below:
 - **K-Nearest Neighbors classifier**
 - **Decision Tree classifier**
