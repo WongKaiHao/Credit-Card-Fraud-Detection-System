@@ -1,7 +1,7 @@
 #Credit Card Fraud Detection System
-#Objective - To test which models are better in handling imbalanced class dataset.
+#Project Objective - To test which models are better in handling imbalanced class dataset.
 
-##Dataset (https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) 
+#Dataset (https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) 
 - to train the model to determine if the transaction is fraudulent.
 
 1. Data Understanding
