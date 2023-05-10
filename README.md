@@ -4,7 +4,7 @@
 
 ##### Dataset (https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) 
 ###### - To train the model to determine if the transaction is fraudulent.  
-
+---  
 1. Data Understanding
 - The abnormal data and class imbalance issue is identified, while there is no missing value in this dataset.
 - The abnormal data remained unchanged in the dataset.
